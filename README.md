@@ -1,4 +1,4 @@
-# Word to Number (Spanish) ![GitHub issues](https://img.shields.io/github/issues/Neuri-ai/w2n_en) ![GitHub forks](https://img.shields.io/github/forks/Neuri-ai/w2n_en) ![GitHub stars](https://img.shields.io/github/stars/Neuri-ai/w2n_en) ![GitHub licence](https://img.shields.io/github/license/Neuri-ai/w2n_en)
+# Word to Number (English) ![GitHub issues](https://img.shields.io/github/issues/Neuri-ai/w2n_en) ![GitHub forks](https://img.shields.io/github/forks/Neuri-ai/w2n_en) ![GitHub stars](https://img.shields.io/github/stars/Neuri-ai/w2n_en) ![GitHub licence](https://img.shields.io/github/license/Neuri-ai/w2n_en)
 
 This is a Python module to convert number words (eg. veintiuno) to numeric digits (21).
 It works for positive numbers upto the range of 999,999,999,999 (i.e. billions)
